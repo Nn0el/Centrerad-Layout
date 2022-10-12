@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: #b800bf;
+    font-family: 'Silkscreen', cursive;
+}
+a {
+    color: plum;
+}
+a:hover {
+color: purple;
+}
+nav {
+font-weight: 500;
+
+}
